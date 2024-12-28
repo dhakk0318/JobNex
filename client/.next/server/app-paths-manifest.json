@@ -1,0 +1,8 @@
+{
+  "/EmployeSignup/page": "app/EmployeSignup/page.js",
+  "/Employesignin/page": "app/Employesignin/page.js",
+  "/Employe/EmployeHome/page": "app/Employe/EmployeHome/page.js",
+  "/Employe/jobs/page": "app/Employe/jobs/page.js",
+  "/Employe/CreateJob/page": "app/Employe/CreateJob/page.js",
+  "/Student/Jobs/page": "app/Student/Jobs/page.js"
+}

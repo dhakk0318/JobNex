@@ -1,0 +1,84 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/Studentlogin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Studentlogin/page.css",
+      "static/chunks/app/Studentlogin/page.js"
+    ],
+    "/Studentsignup/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Studentsignup/page.css",
+      "static/chunks/app/Studentsignup/page.js"
+    ],
+    "/Student/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/layout.css",
+      "static/chunks/app/Student/layout.js"
+    ],
+    "/Student/StudentHome/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Student/StudentHome/page.js"
+    ],
+    "/Student/Internships/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Internships/page.css",
+      "static/chunks/app/Student/Internships/page.js"
+    ],
+    "/Student/Jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/Jobs/page.css",
+      "static/chunks/app/Student/Jobs/page.js"
+    ],
+    "/EmployeSignup/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/EmployeSignup/page.css",
+      "static/chunks/app/EmployeSignup/page.js"
+    ],
+    "/Employe/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/layout.css",
+      "static/chunks/app/Employe/layout.js"
+    ],
+    "/Employe/EmployeHome/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Employe/EmployeHome/page.js"
+    ],
+    "/Employe/jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Employe/jobs/page.js"
+    ],
+    "/Employesignin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employesignin/page.css",
+      "static/chunks/app/Employesignin/page.js"
+    ],
+    "/Employe/CreateJob/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/CreateJob/page.css",
+      "static/chunks/app/Employe/CreateJob/page.js"
+    ]
+  }
+}
